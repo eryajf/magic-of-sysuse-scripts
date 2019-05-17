@@ -1,5 +1,3 @@
-[TOC]
-
 有了前边[1.0](https://github.com/eryajf/shellabout/blob/master/yunweiwaigua.sh "1.0")的基础，今天所见的2.0版本基本上就是水到渠成了。
 
 最大的变化，就是从原来的单层选择菜单，丰富到了两层，以实现更丰富的功能需求。
