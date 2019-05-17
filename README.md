@@ -6,7 +6,8 @@
 
 最新版本脚本架构如下所示：
 
-![运维外挂2.0版本架构草图](http://t.eryajf.net/imgs/2019/05/3a32f09d4f0208d5.jpg "运维外挂2.0版本架构草图")
+![运维外挂2.0版本架构草图](https://raw.githubusercontent.com/eryajf/t/master/img20190517103350.jpg "运维外挂2.0版本架构草图")
+
 
 ## 2，详细说明。
 
