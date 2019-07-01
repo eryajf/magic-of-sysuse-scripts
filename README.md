@@ -55,6 +55,9 @@
 >
 >所有请求进来首先通过总入口进入，然后分出四个菜单供选择，接着在对应菜单中选择对应方法即可执行，若选择`<Cancel>`则再返回到总入口当中。
 
+![](https://raw.githubusercontent.com/eryajf/t/master/img/GIF.gif)
+
+
 ## 3，对比1.0。
 
 v2.0主脚本可[`点我`](https://github.com/eryajf/magic-of-sysuse-scripts/blob/master/a)跳转查看。
