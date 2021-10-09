@@ -75,3 +75,7 @@ v2.0主脚本可[`点我`](https://github.com/eryajf/magic-of-sysuse-scripts/blo
 - 3，优化安装菜单中的各个安装方法。
 - 4，更改原whiptail使用if判断为case判断，使阅读更加简洁。
 - 5，增加输出颜色控制，使输出更加显眼。
+
+## 星路历程
+
+[![Stargazers over time](https://starchart.cc/eryajf/magic-of-sysuse-scripts.svg)](https://starchart.cc/eryajf/magic-of-sysuse-scripts)
